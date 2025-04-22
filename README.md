@@ -7,7 +7,7 @@ A definition of the binary message protocol for MESSIN can be found in the [docu
 
 
 ## How To Use
-To use the library, add the `MESSINLibrary.prj` project file as reference project to your own simulink project. This will add the `library` directory to your project path automatically.
+To use the library, add the `MESSINLibrary.prj` project file as reference project to your own simulink project. This will add the `library` and `packages` directories to your project path automatically.
 
 
 ## Examples
